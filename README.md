@@ -53,6 +53,7 @@ When data are provided, the script generates:
 - `results/cross_tab_depression_smoking.csv` for subgroup comparisons.
 - `results/chi_square_results.csv` for inferential test output (chi-square statistic, degrees of freedom, p-value).
 - `figures/depression_smoking_analysis.png` for publication-ready visualization.
+ ![Smoking and Depression](figures/depression_smoking_analysis.png)
 
 ## Interpretation
 A statistically significant chi-square result would indicate that smoking and depression status are not independent in this sample. Because this is a cross-sectional survey analysis, findings should be interpreted as an **association**, not causation.
