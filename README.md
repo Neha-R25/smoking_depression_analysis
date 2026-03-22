@@ -4,13 +4,13 @@
 Adolescent tobacco use and mental health are major public health concerns in the United States. Understanding whether smoking behavior is associated with depression-related symptoms in high school students can support targeted school and community interventions.
 
 ## Research Question
-**Is cigarette smoking in the past 30 days associated with self-reported persistent sadness/hopelessness among adolescents in the 2023 Youth Risk Behavior Survey (YRBS)?**
+**Is cigarette smoking associated with self-reported depressive symptoms among adolescents in the 2023 Youth Risk Behavior Survey (YRBS)?**
 
 ## Repository Structure
 
 ```text
 smoking-depression-analysis/
-├── data/                      # Place raw YRBS 2023 data here (e.g., yrbs_2023.csv)
+├── data/                      
 ├── scripts/
 │   └── tobacco_mental_health_analysis.R
 ├── figures/
